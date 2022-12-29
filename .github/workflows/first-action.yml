@@ -12,5 +12,5 @@ jobs:
         run: echo "Done - Bye!"
       - name: Multi-Line Greeting and Goodbye
         run: |
-          echo "Hello World - Multi-Line!
-          echo "Done - Bye - Multi-Line!
+          echo "Hello World - Multi-Line!"
+          echo "Done - Bye - Multi-Line!"
